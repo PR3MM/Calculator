@@ -1,6 +1,7 @@
 # Calculator Web App
 
-![Calculator Screenshot](assets/img/calculator_screenshot.png)
+![Calculator Screenshot](![image](https://github.com/user-attachments/assets/6f09417a-d9bd-403f-85b5-f108aaa6895d)
+)
 
 ## Overview
 
@@ -16,7 +17,7 @@ This is a simple yet stylish calculator web application built with HTML, CSS, an
 
 ## Demo
 
-[Live Demo](https://your-username.github.io/calculator-app)
+[Live Demo](https://calculator-app-cal.vercel.app/)
 
 ## Getting Started
 
@@ -54,11 +55,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Icons provided by [FontAwesome](https://fontawesome.com/)
-- Neumorphic design inspired by [Neumorphism.io](https://neumorphism.io/)
