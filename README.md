@@ -1,7 +1,7 @@
 # Calculator Web App
 
-![Calculator Screenshot](![image](https://github.com/user-attachments/assets/6f09417a-d9bd-403f-85b5-f108aaa6895d)
-)
+![image](https://github.com/user-attachments/assets/335ece35-fc83-4537-af23-dde4dc722a3c)
+
 
 ## Overview
 
